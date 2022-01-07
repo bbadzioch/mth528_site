@@ -58,7 +58,7 @@ is a classic.
 [Algebraic Topology by Allen Hatcher](https://www.amazon.com/Algebraic-Topology-Allen-Hatcher/dp/0521795400/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=0521795400&pd_rd_r=BNPDMNQEDCQ7X44DG4V2&pd_rd_w=b9gyu&pd_rd_wg=V2N70&psc=1&refRID=BNPDMNQEDCQ7X44DG4V2)
 {:target="_blank"}
 is another good option and it can be downloaded for free from
-[Allen Hatcher's website](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html>){:target="_blank"}.
+[Allen Hatcher's website](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html){:target="_blank"}.
 The content of the course will roughly correspond to chapters 1-2 of Spanier's
 book and chapters 0-1 of Hatcher's text.
 
