@@ -53,10 +53,8 @@ After completing this course students should be able to:
 
 The course will follow lecture notes posted on this website.
 If you would like to use a published text as a supplement, there are many books
-to choose from. [Algebraic Topology by Edwin Spanier](https://www.amazon.com/Algebraic-Topology-Edwin-H-Spanier/dp/0387944265/ref=sr_1_1?s=books&ie=UTF8&qid=1516927591&sr=1-1){:target="_blank"}
-is a classic.
-[Algebraic Topology by Allen Hatcher](https://www.amazon.com/Algebraic-Topology-Allen-Hatcher/dp/0521795400/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=0521795400&pd_rd_r=BNPDMNQEDCQ7X44DG4V2&pd_rd_w=b9gyu&pd_rd_wg=V2N70&psc=1&refRID=BNPDMNQEDCQ7X44DG4V2)
-{:target="_blank"}
+to choose from. [Algebraic Topology by Edwin Spanier](https://amzn.to/34x2tNp){:target="_blank"} is a classic.
+[Algebraic Topology by Allen Hatcher](https://amzn.to/3q6lKh8){:target="_blank"}
 is another good option and it can be downloaded for free from
 [Allen Hatcher's website](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html){:target="_blank"}.
 The content of the course will roughly correspond to chapters 1-2 of Spanier's
