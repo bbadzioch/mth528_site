@@ -24,8 +24,8 @@ and by appointment.
 
 ## Prerequisites
 
-* General topology (as covered in MTH 427/527)
-* Some group theory (groups, subgroups, quotient groups, homomorphisms and isomorphisms)
+* General topology (topological spaces, continuous functions, subspaces, product spaces, quotient spaces, compactness and path connectedness).
+* Some group theory (groups, subgroups, quotient groups, homomorphisms and isomorphisms).
 
 ## Learning outcomes
 
@@ -72,8 +72,8 @@ book and chapters 0-1 of Hatcher's text.
 ## Homework
 
 Homework problems will be assigned weekly, and will be due on Friday each week.
-Students registered for MTH 527 are required to submit homework solutions typeset
-in LaTeX. MTH 427 students will receive one bonus point for each homework problem
+Students registered for MTH 528 are required to submit homework solutions typeset
+in LaTeX. MTH 428 students will receive one bonus point for each homework problem
 solution prepared in LaTeX (solutions that show no mathematical effort do not count).
 I will give a brief introduction to LaTeX during the first week of the course.
 
@@ -82,7 +82,6 @@ own. Copying solutions from other students or any other sources is a violation
 of the UB academic integrity policy.
 
 Homework assignments will be collected and returned through [Gradescope](https://www.gradescope.com).
-I will explain in class how to use it.
 
 ## Class participation
 
