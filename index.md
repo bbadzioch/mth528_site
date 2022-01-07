@@ -13,19 +13,6 @@ A PDF version of this syllabus is available <a href="/assets/syllabus.pdf" markd
 * Tue 2:20 - 3:35 PM [Clemens Hall 19](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#CLEMEN){:target="_blank"}
 * Thu 2:20 - 3:35 PM [Clemens Hall 19](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#CLEMEN){:target="_blank"}
 
-The class will be divided in two groups, and each group will attend only
-one weekly meeting. This is meant to partially offset the time that you will
-need to spend watching videos with lectures, and also to assure that our
-in-person meetings are small and more interactive.
-
-**Group assignments are posted [here](/assets/group_assignments.pdf).**
-
-## Recitations
-
-* Thu 7:05 - 7:55 PM [Math Building 250](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#MATH){:target="_blank"}
-
-Recitations are meant primarily for students taking MTH 427, but anyone interested
-can participate.   
 
 ## Instructor
 
