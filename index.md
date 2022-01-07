@@ -64,18 +64,17 @@ book and chapters 0-1 of Hatcher's text.
 ## Grading
 
 | **Homework**                          | 30% |  
-| **Midtem Exam** &nbsp; &nbsp ;        | 20% |
+| **Midtem Exam** &nbsp; &nbsp;         | 20% |
 | **Class participation** &nbsp; &nbsp; | 10% |
 | **Final Exam**                        | 40% |  
 
 
 ## Homework
 
-Homework problems will be assigned weekly, and will be due on Friday each week.
+Homework problems will be assigned weekly, and will be due on Wednesday each week.
 Students registered for MTH 528 are required to submit homework solutions typeset
 in LaTeX. MTH 428 students will receive one bonus point for each homework problem
 solution prepared in LaTeX (solutions that show no mathematical effort do not count).
-I will give a brief introduction to LaTeX during the first week of the course.
 
 You can collaborate on homework problems, but you must write solutions entirely on your
 own. Copying solutions from other students or any other sources is a violation
@@ -115,7 +114,7 @@ on some topic etc.
 
 ## Exams
 
-| **Midterm Exam 1** &nbsp; &nbsp;| Wednesday, March 16, 3:30 - 4:50 PM  &nbsp; &nbsp;| Math Building 122  |
+| **Midterm Exam** &nbsp; &nbsp;  | Wednesday, March 16, 3:30 - 4:50 PM  &nbsp; &nbsp;| Math Building 122  |
 | **Final Exam**     &nbsp; &nbsp;| Tuesday, May 17, 11:45 - 2:45 PM   &nbsp; &nbsp;  | Fronczak Hall 422  |  
 
 
