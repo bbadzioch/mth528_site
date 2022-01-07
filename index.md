@@ -18,7 +18,7 @@ A PDF version of this syllabus is available <a href="/assets/syllabus.pdf" markd
 
 Bernard Badzioch  
 **E-mail:** [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=MTH 427/527)  
-**Office Hours:** TBD on [MTH 428/528 Discord server](https://discord.com/)
+**Office Hours:** TBD on [MTH 428/528 Discord server](https://discord.com/){:target="_blank"}
 and by appointment.
 
 
@@ -121,16 +121,16 @@ on some topic etc.
 
 ## Incomplete Grades
 
-See the UB Catalog for the [UB Incomplete Policy](https://catalog.buffalo.edu/policies/explanation.html).
+See the UB Catalog for the [UB Incomplete Policy](https://catalog.buffalo.edu/policies/explanation.html){:target="_blank"}.
 
 
 ## Academic Integrity
 
-See the UB Catalog for the [UB Academic Integrity Policy](https://catalog.buffalo.edu/policies/integrity.html).
+See the UB Catalog for the [UB Academic Integrity Policy](https://catalog.buffalo.edu/policies/integrity.html){:target="_blank"}.
 
 
 ## Accessibility Resources
 
 If you need accommodations due to a physical or learning disability please contact the
-[UB Accessibility Resources Office](https://www.buffalo.edu/studentlife/who-we-are/departments/accessibility.html)
+[UB Accessibility Resources Office](https://www.buffalo.edu/studentlife/who-we-are/departments/accessibility.html){:target="_blank"}
 to get halp with making appropriate arrangements.
