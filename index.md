@@ -10,67 +10,65 @@ A PDF version of this syllabus is available <a href="/assets/syllabus.pdf" markd
 
 ## Lectures
 
-* Tue 2:20 - 3:35 PM [Clemens Hall 19](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#CLEMEN){:target="_blank"}
-* Thu 2:20 - 3:35 PM [Clemens Hall 19](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#CLEMEN){:target="_blank"}
+* Mon 3:30 - 4:50 PM [Math Building 122](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#MATH){:target="_blank"}
+* Wed 3:30 - 4:50 PM [Math Building 122](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#MATH){:target="_blank"}
 
 
 ## Instructor
 
 Bernard Badzioch  
 **E-mail:** [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=MTH 427/527)  
-**Office Hours:** Fri 5:00 - 7:00 PM on [MTH 447/547 Discord server](https://discord.com/)
+**Office Hours:** TBD on [MTH 428/528 Discord server](https://discord.com/)
 and by appointment.
 
-## TA
-
-Deepisha Solanki
-**E-mail:** [deepisha@buffalo.edu](mailto:deepisha@buffalo.edu?subject=MTH 427/527)  
-**Office Hours:**  Tue, Thu 1:05 - 2:05 PM  [Math Building 140](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#MATH){:target="_blank"}
 
 ## Prerequisites
 
-This is an abstract, proof based course. I will assume that you have experience
-with mathematical proofs and you know how to read and write them. All homework
-and exam problems will ask you to prove various statements on your own. The main
-technical prerequisites come from calculus: you should be comfortable with the
-notions of a continuous function (of one and several real variables) and a limit
-of a sequence of real numbers. Prior knowledge of operations on sets (union,
-intersection, difference, product) is also expected, but I will review this at
-the beginning of the course.
+* General topology (as covered in MTH 427/527)
+* Some group theory (groups, subgroups, quotient groups, homomorphisms and isomorphisms)
 
 ## Learning outcomes
 
 After completing this course students should be able to:
 
-* Understand the notions of a metric space, topological space, subspace,
-  product space, quotient space, topological manifold and provide examples
-  illustrating each of these notions.
-* Understand the notion of a continuous function between topological spaces and
-  a homeomorphism, and be able to recognize if a given
-  function is continuous and if it is a homeomorphism.
-* Understand basic topological properties: metrizability, compactness, connectedness,
-  path connectedness, separation axioms etc. Understand various connections between
-  these properties and be able to provide examples of topological spaces that satisfy
-  or do not satisfy these properties.
-* Prove or disprove statements concerning topological spaces and continuous functions.
-
-
+* Understand the notions of a category and a functor between categories.
+* Understand the notions of homotopy of functions and homotopy equivalence of topological
+  spaces.
+* Understand the construction of the fundamental group functor and its properties.
+* Be able to compute the fundamental group of a variety spaces using such properties as homotopy
+  invariance, the product formula, van Kampen's Theorem.
+* Understand some applications of the fundamental group (Brouwer fixed point theorem, Borsuk-Ulam theorem,
+  the fundamental theorem of algebra etc.).
+* Understand the notion of a CW complex and know how to compute the fundamental group of a CW complex
+  using its cell structure.
+* Understand and apply some basic results of homotopy theory: the cellular approximation theorem,
+  the homotopy extension property of CW complexes etc.
+* Understand the notion of a covering space.
+* Understand and be able to apply the results on classification theorem of covering spaces using
+  the fundamental group.
+* Understand the notion of a deck transformation and how the group of deck transformations of a covering
+  can be expressed in terms of the fundamental group.
 
 ## Textbook
 
 The course will follow lecture notes posted on this website.
-If you would like to use a published text as a supplement, a popular and good
-textbook is e.g. [Topology by J.R. Munkres](https://www.amazon.com/Topology-2nd-Economy-James-Munkres/dp/8120320468/ref=pd_cp_14_1?_encoding=UTF8&pd_rd_i=8120320468&pd_rd_r=4VZWC9KGC5G31YR4T9ZA&pd_rd_w=5hg0t&pd_rd_wg=60htE&psc=1&refRID=4VZWC9KGC5G31YR4T9ZA){:target="_blank"}.
-There are many other good options. You can check with me if you would like to
-use some other book.
+If you would like to use a published text as a supplement, there are many books
+to choose from. [Algebraic Topology by Edwin Spanier](https://www.amazon.com/Algebraic-Topology-Edwin-H-Spanier/dp/0387944265/ref=sr_1_1?s=books&ie=UTF8&qid=1516927591&sr=1-1){:target="_blank"}
+is a classic.
+[Algebraic Topology by Allen Hatcher](https://www.amazon.com/Algebraic-Topology-Allen-Hatcher/dp/0521795400/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=0521795400&pd_rd_r=BNPDMNQEDCQ7X44DG4V2&pd_rd_w=b9gyu&pd_rd_wg=V2N70&psc=1&refRID=BNPDMNQEDCQ7X44DG4V2)
+{:target="_blank"}
+is another good option and it can be downloaded for free from
+[Allen Hatcher's website](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html>){:target="_blank"}.
+The content of the course will roughly correspond to chapters 1-2 of Spanier's
+book and chapters 0-1 of Hatcher's text.
+
 
 ## Grading
 
 | **Homework**                          | 30% |  
-| **Midtem Exam 1** &nbsp; &nbsp;       | 15% |
-| **Midtem Exam 2** &nbsp; &nbsp;       | 15% |
+| **Midtem Exam** &nbsp; &nbsp ;        | 20% |
 | **Class participation** &nbsp; &nbsp; | 10% |
-| **Final Exam**                        | 30% |  
+| **Final Exam**                        | 40% |  
 
 
 ## Homework
@@ -120,9 +118,8 @@ on some topic etc.
 
 ## Exams
 
-| **Midterm Exam 1** &nbsp; &nbsp;| Thursday, October 7, 2:20 - 3:35 PM    &nbsp; &nbsp;| Clemens Hall 19  |
-| **Midterm Exam 2** &nbsp; &nbsp;| Thursday, November 11, 2:20 - 3:35 PM  &nbsp; &nbsp;| Clemens Hall 19  |
-| **Final Exam**     &nbsp; &nbsp;| Tuesday, December 14, 3:30 - 6:30 PM   &nbsp; &nbsp;| Clemens Hall 19  |  
+| **Midterm Exam 1** &nbsp; &nbsp;| Wednesday, March 16, 3:30 - 4:50 PM  &nbsp; &nbsp;| Math Building 122  |
+| **Final Exam**     &nbsp; &nbsp;| Tuesday, May 17, 11:45 - 2:45 PM   &nbsp; &nbsp;  | Fronczak Hall 422  |  
 
 
 
