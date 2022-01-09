@@ -22,8 +22,7 @@ A PDF version of this syllabus is available <a href="/assets/syllabus.pdf" markd
 
 ## Lectures
 
-| Mon 3:30 - 4:50 PM &nbsp; &nbsp; | [Math Building 122](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#MATH){:target="_blank"} |
-| Wed 3:30 - 4:50 PM &nbsp; &nbsp; | [Math Building 122](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#MATH){:target="_blank"} |
+| Mon, Wed 3:30 - 4:50 PM &nbsp; &nbsp; | [Math Building 122](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#MATH){:target="_blank"} |
 
 
 ## Instructor
