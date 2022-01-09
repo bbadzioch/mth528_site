@@ -1,4 +1,10 @@
-<table>
+<style>
+    table.lecture-notes {
+        border: 1px solid black; padding:10px;
+    }
+</style>
+
+<table class="lecture-notes">
     {% for chapter in page.chapters %}
     {% assign ch_num = chapter | split: "." | first %}
     <tr>
