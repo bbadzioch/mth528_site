@@ -13,6 +13,10 @@ table.syllabus-table td{
 table.syllabus-table tr:hover {
   background-color: rgb(255, 255, 255);
 }
+
+ul {
+  padding-left: 20px;
+}
 </style>
 
 
