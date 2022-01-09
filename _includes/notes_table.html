@@ -3,11 +3,19 @@
         padding-left: 10px;
         padding-right: 10px;
     }
-    table.lecture-notes tr:nth-child(even) {
-        background: rgb(168, 149, 149)} 
-    table.lecture-notes tr:nth-child(odd) {
-        background: rgb(255, 255, 255)} 
 
+    table.lecture-notes tr {
+        border: solid;
+        border-width: 1px 0;
+    }
+
+    table.lecture-notes tr:first-child {
+        border-top: none;
+    }
+
+    table.lecture-notes tr:last-child {
+        border-bottom: none;
+    }
 </style>
 
 <table class="lecture-notes">
