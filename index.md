@@ -78,10 +78,10 @@ book and chapters 0-1 of Hatcher's text.
 
 ## Grading
 
-| **Homework**                          | 30% |  
+| **Homework**                          | 35% |  
 | **Midtem Exam**                       | 20% |
 | **Class participation**               | 10% |
-| **Final Exam**                        | 40% |  
+| **Final Exam**                        | 35% |  
 {: .syllabus-table }
 
 ## Homework
@@ -102,8 +102,8 @@ Homework assignments will be collected and returned through [Gradescope](https:/
 Class participation credit will be based on two components.
 
 **Class attendance.** You can earn up to 5% of the total course credit
-for being present and on time during class meetings. You can miss one
-class meeting without a justified reason. Each subsequent unexcused absence
+for being present and on time during class meetings. You can miss two
+class meetings without a justified reason. Each subsequent unexcused absence
 will lower your participation credit by 1% (i.e. from 5% to 4% etc.).
 
 **Weekly digest.** As a part of each homework you will be asked to submit
