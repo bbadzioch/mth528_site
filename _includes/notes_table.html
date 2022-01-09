@@ -1,4 +1,4 @@
 {% for chapter in page.chapters %}
 {% assign ch_num = chapter | split: "." | first %}
-- <a href ="{{site.baseurl}}/assets/notes/mth428_notes_{{ch_num}}.pdf">{{ chapter}}</a> <br/>
+<a href ="{{site.baseurl}}/assets/notes/mth428_notes_{{ch_num}}.pdf">{{ chapter}}</a> <br/>
 {% endfor %}
