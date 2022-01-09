@@ -1,4 +1,16 @@
-{% for chapter in page.chapters %}
-{% assign ch_num = chapter | split: "." | first %}
-<a href ="{{site.baseurl}}/assets/notes/mth428_notes_{{ch_num}}.pdf">{{ chapter}}</a> <br/>
-{% endfor %}
+<table>
+    {% for chapter in page.chapters %}
+    {% assign ch_num = chapter | split: "." | first %}
+    <tr>
+        <td>
+            {{chapter}}
+        </td>
+        <td>
+            <a href="{{site.baseurl}}/assets/notes/mth428_notes_{{ch_num}}.pdf">complete notes</a>
+        </td>
+        <td>
+            <a href="{{site.baseurl}}/assets/blanks/mth428_blanks_{{ch_num}}.pdf">blank notes</a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
