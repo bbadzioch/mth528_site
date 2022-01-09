@@ -5,13 +5,14 @@ published: true
 
 <style>
 table.syllabus-table td{
-
-        padding-right: 10px;
-    }
+  padding-right: 10px;
+  padding-left: 5px;
+        
+}
 
 table.syllabus-table tr:hover {
-        background-color: rgb(255, 255, 255);
-    }
+  background-color: rgb(255, 255, 255);
+}
 </style>
 
 
@@ -75,8 +76,8 @@ book and chapters 0-1 of Hatcher's text.
 ## Grading
 
 | **Homework**                          | 30% |  
-| **Midtem Exam** &nbsp; &nbsp;         | 20% |
-| **Class participation** &nbsp; &nbsp; | 10% |
+| **Midtem Exam**                       | 20% |
+| **Class participation**               | 10% |
 | **Final Exam**                        | 40% |  
 {: .syllabus-table }
 
@@ -125,8 +126,8 @@ on some topic etc.
 
 ## Exams
 
-| **Midterm Exam** &nbsp; &nbsp;  | Wednesday, March 16, 3:30 - 4:50 PM  &nbsp; &nbsp;| Math Building 122  |
-| **Final Exam**     &nbsp; &nbsp;| Tuesday, May 17, 11:45 - 2:45 PM   &nbsp; &nbsp;  | Fronczak Hall 422  |  
+| **Midterm Exam**  | Wednesday, March 16, 3:30 - 4:50 PM  | Math Building 122  |
+| **Final Exam**    | Tuesday, May 17, 11:45 - 2:45 PM     | Fronczak Hall 422  |  
 {: .syllabus-table }
 
 
