@@ -1,3 +1,4 @@
 {% for chapter in page.chapters %}
-- <a href ="{{site.baseurl}}/assets/notes/mth428_notes_{{chapter.number}}.pdf">{{ chapter.title }}</a> <br/>
+{% assign ch_num = chapter | split: "." | first %}
+- <a href ="{{site.baseurl}}/assets/notes/mth428_notes_{{ch_num}}.pdf">{{ chapter}}</a> <br/>
 {% endfor %}
