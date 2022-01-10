@@ -7,7 +7,7 @@ published: true
 table.syllabus-table td{
   padding-right: 10px;
   padding-left: 5px;
-        
+
 }
 
 table.syllabus-table tr:hover {
@@ -33,7 +33,7 @@ A PDF version of this syllabus is available <a href="/assets/syllabus.pdf" markd
 
 Bernard Badzioch  
 **E-mail:** [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=MTH 427/527)  
-**Office Hours:** TBD on [MTH 428/528 Discord server](https://discord.com/){:target="_blank"}
+**Office Hours:** 6:00 - 7:00 PM on [MTH 428/528 Discord server](https://discord.com/){:target="_blank"}
 and by appointment.
 
 
