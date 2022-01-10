@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 
 chapters:
     - 1. Some Motivation
