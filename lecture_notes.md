@@ -19,4 +19,4 @@ for each week will include links to the up-to-date versions of each chapter.
 
 <br/>
 
-{% include notes_table.html %}
+{% include lecture_notes_table.html %}
