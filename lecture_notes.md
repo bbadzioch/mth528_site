@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: lecture_notes
 
 chapters:
     - 1. Some Motivation
