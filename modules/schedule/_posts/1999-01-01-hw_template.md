@@ -1,15 +1,6 @@
 ---
-title: Notes and Homework template
+title: Homework template
 ---
-
-# Lecture notes
-
-A pdf file with all notes and a LaTex source file are available
-[here](https://github.com/bbadzioch/topology_lecture_notes){:target="_blank"}.
-
-I may make some minor changes to these notes during the semester, which can affect
-numbering of theorems, exercises etc. The schedule for each week will include links
-to the up-to-date versions of chapters covered that week.
 
 
 # Homework template
