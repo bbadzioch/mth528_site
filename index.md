@@ -33,7 +33,7 @@ A PDF version of this syllabus is available <a href="/assets/syllabus.pdf" markd
 
 Bernard Badzioch  
 **E-mail:** [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=MTH 427/527)  
-**Office Hours:** Wed 5:00 - 6:00 PM and by appointment.
+**Office Hours:** Mon 5:00 - 6:00 PM and by appointment.
 
 
 ## Prerequisites
