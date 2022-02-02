@@ -4,6 +4,8 @@ layout: lecture_notes
 chapters:
     - 1. Some Motivation
     - 2. Categories and Functors
+    - 3. The Fundamental Group
+    - 4. Dependence on the Basepoint
 ---
 
 
