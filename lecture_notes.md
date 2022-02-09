@@ -6,6 +6,8 @@ chapters:
     - 2. Categories and Functors
     - 3. The Fundamental Group
     - 4. Dependence on the Basepoint
+    - 5. First computations
+    - 6. Some applications
 ---
 
 
