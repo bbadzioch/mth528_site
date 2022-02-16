@@ -8,6 +8,9 @@ chapters:
     - 4. Dependence on the Basepoint
     - 5. First computations
     - 6. Some applications
+    - 7. Higher Homotopy Groups
+    - 8. Homotopy Invariance
+    - 9. The Product Formula
 ---
 
 
