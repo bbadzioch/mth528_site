@@ -11,6 +11,8 @@ chapters:
     - 7. Higher Homotopy Groups
     - 8. Homotopy Invariance
     - 9. The Product Formula
+    - 10. Pushouts and van Kampen’s Theorem
+    - 11. Proof of van Kampen’s Theorem
 ---
 
 
