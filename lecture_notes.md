@@ -13,6 +13,7 @@ chapters:
     - 9. The Product Formula
     - 10. Pushouts and van Kampen’s Theorem
     - 11. Proof of van Kampen’s Theorem
+    - 12. CW complexes
 ---
 
 
