@@ -16,6 +16,8 @@ chapters:
     - 12. CW complexes
     - 13. Homotopy Extension Property
     - 14. Presentations of Groups
+    - 15. Fundamental Group and 2-Cells
+    - 16. Cellular Approximation Theorem
 ---
 
 
