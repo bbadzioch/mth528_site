@@ -18,6 +18,7 @@ chapters:
     - 14. Presentations of Groups
     - 15. Fundamental Group and 2-Cells
     - 16. Cellular Approximation Theorem
+    - 17. Covering Spaces
 ---
 
 
