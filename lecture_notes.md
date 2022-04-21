@@ -19,6 +19,8 @@ chapters:
     - 15. Fundamental Group and 2-Cells
     - 16. Cellular Approximation Theorem
     - 17. Covering Spaces
+    - 18. Coverings and the Fundamental Group
+    - 19. Classification of Coverings
 ---
 
 
