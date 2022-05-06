@@ -22,6 +22,9 @@ chapters:
     - 18. Coverings and the Fundamental Group
     - 19. Classification of Coverings
     - 20. From Subgroups to Coverings 
+    - 21. Equivalences of categories
+    - 22. Coverings and group actions
+    - 23. Deck transformations
 ---
 
 
