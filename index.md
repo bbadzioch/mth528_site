@@ -129,7 +129,7 @@ on some topic etc.
 ## Exams
 
 | **Midterm Exam**  | Wednesday, March 30, 3:30 - 4:50 PM  | Math Building 122  |
-| **Final Exam**    | Tuesday, May 17, 11:45 - 2:45 PM     | Fronczak Hall 422  |  
+| **Final Exam**    | Tuesday, May 17, 11:45 - 2:45 PM     | Math Building 122  |  
 {: .syllabus-table }
 
 
